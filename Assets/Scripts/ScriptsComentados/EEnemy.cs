@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public interface IEnemy
 {
@@ -8,3 +8,4 @@ public interface IEnemy
     public void UpdateLife();
     public int GetLife();
 }
+*/

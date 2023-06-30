@@ -1,4 +1,4 @@
-sealed class LifeSystem 
+/*sealed class LifeSystem 
 {
     static int playerLife;
     static int playerDamagePower;
@@ -15,4 +15,4 @@ sealed class LifeSystem
     public void DecrasePlayerLife(int damage) {playerLife-=damage;}
     public void DecraseLife(int damageTaken) {life-=damageTaken;}
     public void IncraseLife(int item) {life+=item;}
-}
+}*/

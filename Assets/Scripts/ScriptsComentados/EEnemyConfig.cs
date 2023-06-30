@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public class EnemyConfig : MonoBehaviour, IEnemy
 {
@@ -38,4 +38,4 @@ public class EnemyConfig : MonoBehaviour, IEnemy
         UpdateLife();
     }
    
-}
+}*/
